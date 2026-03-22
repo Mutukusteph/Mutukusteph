@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Stephen Mutuku 👋
+Nairobi-based Junior full-stack developer building for social $ climate impact.
+
+ 💻 Tech: Next.js, React, Node.js, MySQL, Vercel, Git
+ 🌍 Passion: Clean cooking tech like BURN Manufacturing's mission in Kenya
+
+Check my portfolio ( coming soon - Vercel link)
 
 <!--
 **Mutukusteph/Mutukusteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
